@@ -1,0 +1,19 @@
+a {
+    color: white;
+    background-color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 7px 20px;
+    user-select: none;
+    -webkit-user-select: none;
+    --ms-user-select: none;
+    --moz-user-select: none;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
