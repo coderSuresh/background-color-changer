@@ -1,5 +1,4 @@
-const body = document.getElementById("body");;
-const button = document.getElementById("changer");
+const body = document.getElementById("body");
 
 const colors = ["red", "green", "gray", "pink", "skyblue"];
 
